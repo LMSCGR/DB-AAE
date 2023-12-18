@@ -9,3 +9,7 @@ Gdrive : https://drive.google.com/drive/folders/1DwRpIEStBTQ7XfAel7Qq1uJeCRZyUj9
 
 #### Temperal
 Gdrive : https://drive.google.com/drive/folders/1yciRZ-b8r27JcEsE_g0N99tPDMzSfTpe?usp=sharing
+
+### Codes
+#### Enviroment
+- Python 3.8
