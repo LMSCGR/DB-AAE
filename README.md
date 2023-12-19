@@ -93,7 +93,7 @@ class AEHyperModel(kt.HyperModel):
             #  Train Discriminator
             # ---------------------
 
-            # Select a random batch of images
+            # Select a random batch of input matrix
             batch = x[i*batch_size:i*batch_size+batch_size]
 
     
