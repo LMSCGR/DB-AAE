@@ -8,7 +8,7 @@ By revealing the transcriptome of individual cells, single-cell RNA sequencing (
 ### Spacial
 Gdrive : https://drive.google.com/drive/folders/1DwRpIEStBTQ7XfAel7Qq1uJeCRZyUj9U?usp=sharing
 
-### Temperal
+### Temporal
 Gdrive : https://drive.google.com/drive/folders/1yciRZ-b8r27JcEsE_g0N99tPDMzSfTpe?usp=sharing
 
 ## Codes
@@ -44,10 +44,6 @@ $ pip install "$package name"
 ```python
 class AEHyperModel(kt.HyperModel):
   def build(self, hp):
-    hp_n2 = hp.Int('units_2', min_value=512, max_value=1024, step=32)
-    hp_n3 = hp.Int('units_3', min_value=32, max_value=512, step=32)
-    hp_n3 = hp.Int('units_3', min_value=512, max_value=1024, step=32)
-    hp_n4 = hp.Int('units_4', min_value=32, max_value=512, step=32)
     # Build the encoder / decoder
     encoder = build_encoder(n1,n2,n3,n4,activation)
     decoder = build_decoder(n1,n2,n3,n4,activation)
