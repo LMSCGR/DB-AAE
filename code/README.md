@@ -1,5 +1,5 @@
 # Schematic of AAE
-<img src="image/figure1.png" alt="Drawing" width= "500px"/>
+<img src="image/figure1.png" alt="Drawing" width= "1000px"/>
 
 # Codes
 
