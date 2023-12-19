@@ -21,3 +21,13 @@ Gdrive : https://drive.google.com/drive/folders/1yciRZ-b8r27JcEsE_g0N99tPDMzSfTp
 - tensorflow 2.11.0
 - keras-tuner 1.4.5
 - keras 2.15.0
+#### Installation
+
+##### pip
+
+For a traditional Python installation, use
+
+```
+$ pip install "$package name"
+```
+#### Usage
