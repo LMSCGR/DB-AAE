@@ -1,6 +1,6 @@
-## Codes
+# Codes
 
-### Enviroment
+## Enviroment
 - Python 3.8
 - scanpy 1.9.1
 - seaborn 0.12.2
@@ -10,24 +10,24 @@
 - tensorflow 2.11.0
 - keras-tuner 1.4.5
 - keras 2.15.0
-### Installation
-#### pip
+## Installation
+### pip
 
 For a traditional Python installation, use
 ```
 $ pip install "$package name"
 ```
-### Usage
-#### Data processing
+## Usage
+### Data processing
 - create_sce.R
 - collect_data.R
-#### simulating scRNA Dataset
+### simulating scRNA Dataset
 - generate_sim_data.R
-#### Data visualization
+### Data visualization
 - figure5_A.py
 - figure5_B.py
 - sfigure1.R
-#### Dynamic batching for DB-AAE (db_aae_tuning_example.py)
+### Dynamic batching for DB-AAE (db_aae_tuning_example.py)
 ```python
 class AEHyperModel(kt.HyperModel):
   def build(self, hp):
