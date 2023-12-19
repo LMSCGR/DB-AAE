@@ -13,3 +13,11 @@ Gdrive : https://drive.google.com/drive/folders/1yciRZ-b8r27JcEsE_g0N99tPDMzSfTp
 ### Codes
 #### Enviroment
 - Python 3.8
+- scanpy 1.9.1
+- seaborn 0.12.2
+- pandas 1.5.3
+- matplotlib 3.6.3
+- numpy 1.23.5
+- tensorflow 2.11.0
+- keras-tuner 1.4.5
+- keras 2.15.0
